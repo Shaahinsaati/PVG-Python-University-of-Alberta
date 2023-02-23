@@ -1,0 +1,9 @@
+The game prompts for a password guess.
+
+The game displays a failure outcome if the players final guess is incorrect.
+
+The game displays a password list.
+
+The game displays a header message that includes the words DEBUG MODE.
+
+The game displays the number of guesses remaining as attempts left.

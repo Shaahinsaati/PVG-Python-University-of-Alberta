@@ -1,0 +1,9 @@
+To exit a maze, whenever you have a choice of paths, always follow the left hand path that you have not already traversed
+Given five tasks to accomplish, perform them in the order from the easiest to the most difficult
+Given five tasks to accomplish, perform them in the order from the most difficult to the easiest
+Learn to swim by watching someone swim, then mimicking their actions in the water, then explaining how you swim to a friend
+Learn how to solve physics problems by reading some example problems and solutions, solving some problems, and then creating some new problems. 
+
+
+
+

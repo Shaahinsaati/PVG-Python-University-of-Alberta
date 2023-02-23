@@ -1,0 +1,17 @@
+1-
+The game displays an outcome.
+The player enters a guess.
+
+2-
+
+Each dash is white
+
+If the player selects a letter that is not in the word, the letter is crossed out in the letter list and one of the snowman parts melts and disappears
+
+If the player selects a letter that is in the word, the letter appears on the appropriate dash
+
+3- A C E
+
+4- D F I
+
+5- B G H J
