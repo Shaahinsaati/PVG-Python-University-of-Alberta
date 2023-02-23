@@ -1,0 +1,5 @@
+1-spatial decomposition
+2-temporal decomposition
+3-problem refinement
+4-feature selection
+5-experiential decomposition
