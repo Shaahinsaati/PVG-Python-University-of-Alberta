@@ -1,0 +1,10 @@
+1-print identifier
+2-( delimiter
+3-2.0 literal float
+4-, delimiter
+5-3 literal integer
+6-/ UNKNOWN
+7-43 literal integer
+8-, delimiter
+9-'hi' literal string
+10-) delimiter

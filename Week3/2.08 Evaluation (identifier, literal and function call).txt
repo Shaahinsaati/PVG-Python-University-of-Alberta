@@ -1,0 +1,4 @@
+1-Nice number
+2-syntax error line 2
+3-hello|semantic error line 2
+4-17|15

@@ -1,0 +1,7 @@
+1-Valid lexically, syntactically and semantically
+
+2-Lexical error
+
+3-Syntax error
+
+4-Semantic error

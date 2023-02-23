@@ -1,0 +1,8 @@
+<es trying to match print(print)
+  <ex trying to match print(print)
+    <fc trying to match print(print)
+      <ex trying to match the second print
+      ex>@id matches the second print
+    fc>@rp matches print(print)
+  ex>@fc matches print(print)
+es>@ex matches print(print)

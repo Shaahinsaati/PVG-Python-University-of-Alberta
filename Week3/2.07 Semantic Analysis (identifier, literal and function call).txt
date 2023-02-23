@@ -1,0 +1,4 @@
+<fc starting len(name)
+  <id> evaluated len to get function len
+  <id> evaluated name to get str Mary
+fc> evaluated len(name) to get int 4

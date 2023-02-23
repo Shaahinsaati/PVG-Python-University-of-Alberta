@@ -1,0 +1,4 @@
+1-'0b101'
+2-A type error will be reported.
+3-"Apple"
+'Cat'
